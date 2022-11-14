@@ -22,3 +22,9 @@ Feel free to share some of your own and comment on others!
 
 Deployed Website : https://balayelpcampweb.herokuapp.com
 
+# Preview
+
+![Screenshot (253)](https://user-images.githubusercontent.com/87692146/201698311-8eec0611-9ba4-4494-9c4e-d179dcbb06ef.png)
+
+
+
